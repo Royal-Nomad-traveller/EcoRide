@@ -1,0 +1,15 @@
+{
+    "name": "rm/eco-ride",
+    "description": "Une application PHP pour organiser et promouvoir le covoiturage durable entre utilisateurs.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rinat",
+            "email": "royaleagleheart@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
